@@ -1,3 +1,6 @@
 matrix.mtx
+pbmc_sample.h5ad
+features.tsv
+barcodes.tsv
 .venv/
 __pycache__/
