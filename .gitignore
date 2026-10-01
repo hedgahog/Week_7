@@ -4,3 +4,4 @@ features.tsv
 barcodes.tsv
 .venv/
 __pycache__/
+*:Zone.Identifier
